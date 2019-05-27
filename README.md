@@ -1,2 +1,2 @@
-# hello-world
-Hello world new project template.
+# 같은그림찾기
+Cocos Creator Version
