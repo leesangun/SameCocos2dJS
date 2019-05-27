@@ -1,0 +1,63 @@
+2018-06-04T01:26:07.300Z - normal: Load ~/.CocosCreator/settings.json
+2018-06-04T01:26:07.304Z - normal: checking language setting...
+2018-06-04T01:26:07.304Z - normal: Language: en
+2018-06-04T01:26:09.420Z - success: protocol editor-framework registered
+2018-06-04T01:26:09.420Z - success: protocol app registered
+2018-06-04T01:26:09.420Z - success: protocol theme registered
+2018-06-04T01:26:09.420Z - success: protocol packages registered
+2018-06-04T01:26:09.421Z - success: protocol unpack registerred
+2018-06-04T01:26:09.421Z - success: protocol disable-commonjs registerred
+2018-06-04T01:26:09.877Z - warn: 会话不存在或已过期
+2018-06-04T01:26:10.039Z - normal: connected!
+2018-06-04T01:26:10.040Z - normal: Check project E:\Devel\Project\ONE\Same
+2018-06-04T01:26:10.042Z - normal: Initializing Cocos2d
+2018-06-04T01:26:10.539Z - normal: Initializing Asset Database
+2018-06-04T01:26:10.589Z - success: protocol uuid registerred
+2018-06-04T01:26:10.589Z - success: protocol db registerred
+2018-06-04T01:26:10.589Z - success: protocol thumbnail registerred
+2018-06-04T01:26:10.589Z - normal: Loading editor/builtin packages
+2018-06-04T01:26:10.608Z - success: anysdk loaded
+2018-06-04T01:26:10.723Z - success: assets loaded
+2018-06-04T01:26:10.725Z - success: builder loaded
+2018-06-04T01:26:10.727Z - success: cocos-analytics loaded
+2018-06-04T01:26:10.729Z - success: console loaded
+2018-06-04T01:26:10.768Z - success: fb-instant-games loaded
+2018-06-04T01:26:10.771Z - success: hierarchy loaded
+2018-06-04T01:26:10.774Z - success: inspector loaded
+2018-06-04T01:26:10.775Z - success: keystore loaded
+2018-06-04T01:26:10.777Z - success: node-library loaded
+2018-06-04T01:26:10.779Z - success: package-asset loaded
+2018-06-04T01:26:10.780Z - success: preferences loaded
+2018-06-04T01:26:10.782Z - success: project-exporter loaded
+2018-06-04T01:26:10.796Z - success: project-importer loaded
+2018-06-04T01:26:10.798Z - success: project-settings loaded
+2018-06-04T01:26:10.800Z - success: ui-kit loaded
+2018-06-04T01:26:10.801Z - success: ui-grid loaded
+2018-06-04T01:26:10.804Z - success: scene loaded
+2018-06-04T01:26:10.805Z - success: sprite-editor loaded
+2018-06-04T01:26:10.807Z - success: store loaded
+2018-06-04T01:26:10.811Z - success: timeline loaded
+2018-06-04T01:26:10.811Z - normal: Loading builtin packages
+2018-06-04T01:26:10.813Z - success: asset-db-debugger loaded
+2018-06-04T01:26:10.814Z - success: code-editor loaded
+2018-06-04T01:26:10.814Z - success: color-picker loaded
+2018-06-04T01:26:10.816Z - success: package-manager loaded
+2018-06-04T01:26:10.820Z - success: sdkbox loaded
+2018-06-04T01:26:10.822Z - success: tester loaded
+2018-06-04T01:26:10.823Z - success: ui-kit-preview-extra loaded
+2018-06-04T01:26:10.823Z - success: ui-kit-preview loaded
+2018-06-04T01:26:10.824Z - success: ui-tree loaded
+2018-06-04T01:26:11.920Z - normal: Initializing project E:\Devel\Project\ONE\Same
+2018-06-04T01:26:11.948Z - normal: Loading packages
+2018-06-04T01:26:11.953Z - normal: Watching packages
+2018-06-04T01:26:11.963Z - normal: Run Application
+2018-06-04T01:26:12.995Z - success: preview server running at http://localhost:7457
+2018-06-04T01:26:17.890Z - normal: 1.9.0
+2018-06-04T01:26:18.015Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T08:21:53.576Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T08:34:48.144Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T08:35:06.974Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T08:37:31.627Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T08:38:08.521Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T08:38:36.541Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
+2018-06-04T09:10:06.324Z - normal: No need to specify the "type" of "NodeTimer.colorFont" because cc.Color is a child class of ValueType.
